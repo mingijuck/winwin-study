@@ -1,0 +1,5 @@
+second test
+pull first
+always git pull first, then start working.
+after finishing the work, git pull once again.
+and then git push.
